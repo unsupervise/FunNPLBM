@@ -1,6 +1,6 @@
-# FunNPLBM: Functional Non-Parametric Latent Block Model
+# NPLBM:  Non-Parametric Latent Block Model
 
-This repository contains the Scala / Spark source code that implements the time series co-clustering method FunNPLBM
+This repository contains the Scala / Spark source code that implements the time series co-clustering method NPLBM and LBM
 
 ## Quick start
 
