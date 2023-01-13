@@ -92,17 +92,6 @@
             <version>2.5.3</version>
         </dependency>
         <dependency>
-            <groupId>com.github.unsupervise</groupId>
-            <artifactId>spark-tss_2.11</artifactId>
-            <version>0.1.1</version>
-            <exclusions>
-                <exclusion>
-                    <groupId>com.github.fommil.netlib</groupId>
-                    <artifactId>all</artifactId>
-                </exclusion>
-            </exclusions>
-        </dependency>
-        <dependency>
             <groupId>gov.sandia.foundry</groupId>
             <artifactId>cognitive-foundry</artifactId>
             <version>4.0.0</version>
