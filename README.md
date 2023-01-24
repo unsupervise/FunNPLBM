@@ -4,7 +4,7 @@ This repository contains the Scala / Spark source code that implements the time 
 
 ## Quick start
 
-This version maven is compatible with Java 8.
+This version of maven is compatible with Java 8.
 
 Make sure that maven is using the correct version of java:
 
