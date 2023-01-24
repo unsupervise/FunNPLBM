@@ -16,7 +16,7 @@ You can compile the script as follows:
 ```
 ./build.sh
 ```
-You can compile the script as follows:
+You can run the script as follows:
 ```
 ./run.sh
 ```
